@@ -1,0 +1,11 @@
+# Local Java runtime and generated Java/Python files
+.tooling/
+build/
+__pycache__/
+**/__pycache__/
+*.py[cod]
+
+# Local Python environments and editor state
+.venv/
+venv/
+.env
